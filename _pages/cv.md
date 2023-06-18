@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Jan 2023 - Current: Senior Statistical Officer - Mathematical Modeller @ Office for Health Improvement and Disparities (OHID), Department of Health and Social Care
+* Jan 2023 - Current: Senior Mathematical Modeller @ Office for Health Improvement and Disparities (OHID), Department of Health and Social Care
 
 * Feb 2021 - Current: Teaching Fellow @ Queen Mary University of London (QMUL)
  
