@@ -25,16 +25,13 @@ Work experience
    *  Mar 2015 - Sep 2017: Research assistant @ Institute for Applied Economic Research (Ipea)
    *  Mar 2015 - Jan 2017: Lecturer @ Federal University of Rio de Janeiro (UFRJ)
  
- #*Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistics
+* Bayesian Networks
+* Mathematical modelling
+* R
 
 #Publications
 #======
