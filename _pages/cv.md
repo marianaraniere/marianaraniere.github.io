@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Jan 2023 - Current: Senior Statistical Officer - Mathematical Modeller - Office for Health Improvement and Disparities (OHID) @ Department of Health and Social Care
+* Jan 2023 - Current: Senior Statistical Officer - Mathematical Modeller @ Office for Health Improvement and Disparities (OHID), Department of Health and Social Care
 
-* Feb 2021 - Current: Teaching Fellow - Queen Mary University of London (QMUL)
+* Feb 2021 - Current: Teaching Fellow @ Queen Mary University of London (QMUL)
  
  * Previous relevant academic experience:
    *  Mar 2015 - Sep 2017: Research assistant @ Institute for Applied Economic Research (Ipea)
