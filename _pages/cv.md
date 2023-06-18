@@ -17,19 +17,13 @@ Education
 
 Work experience
 ======
-* Jan 2023 - Current: Senior Statistical Officer - Mathematical Modeller
-  * Office for Health Improvement and Disparities (OHID) @ Department of Health and Social Care
- #*Duties included: Tagging issues
- #*Supervisor: Professor Git
+* Jan 2023 - Current: Senior Statistical Officer - Mathematical Modeller - Office for Health Improvement and Disparities (OHID) @ Department of Health and Social Care
 
-* Feb 2021 - Current: Teaching Fellow
-  *  Queen Mary University of London (QMUL)
- #*Duties included: Merging pull requests
- #*Supervisor: Professor Hub
+* Feb 2021 - Current: Teaching Fellow - Queen Mary University of London (QMUL)
  
  * Previous relevant academic experience:
-  *  Mar 2015 - Sep 2017: Research assistant @ Institute for Applied Economic Research (Ipea)
-  *  Mar 2015 - Jan 2017: Lecturer @ Federal University of Rio de Janeiro (UFRJ)
+   *  Mar 2015 - Sep 2017: Research assistant @ Institute for Applied Economic Research (Ipea)
+   *  Mar 2015 - Jan 2017: Lecturer @ Federal University of Rio de Janeiro (UFRJ)
  
  #*Supervisor: Professor Hub
   
