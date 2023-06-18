@@ -24,7 +24,8 @@ Work experience
  * Previous relevant academic experience:
    *  Mar 2015 - Sep 2017: Research assistant @ Institute for Applied Economic Research (Ipea)
    *  Mar 2015 - Jan 2017: Lecturer @ Federal University of Rio de Janeiro (UFRJ)
- 
+
+[Full CV](https://www.linkedin.com/in/marianaraniere/)
   
 Skills
 ======
